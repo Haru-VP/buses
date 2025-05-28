@@ -1,0 +1,162 @@
+Ruta 5 operando normalmente.
+Ruta 5 operando normalmente.
+Ruta 5 operando normalmente.
+Ruta 7 suspendida por mantenimiento.
+Ruta 7 suspendida por mantenimiento.
+Ruta 10 parcialmente operativa por obras.
+Ruta 10 parcialmente operativa por obras.
+Ruta 22 en revisión mecánica.
+Ruta 22 en revisión mecánica.
+Todas las rutas suspendidas por paro general.
+Ruta 8 operativa sin contratiempos.
+Ruta 8 operativa sin contratiempos.
+Ruta 9 cerrada por inundaciones.
+Ruta 9 cerrada por inundaciones.
+Ruta 9 cerrada por inundaciones.
+Ruta 3 con retrasos moderados.
+Ruta 3 con retrasos moderados.
+Ruta 3 con retrasos moderados.
+Ruta 3 con retrasos moderados.
+Ruta 3 con retrasos moderados.
+Ruta 3 con retrasos moderados.
+Ruta 3 con retrasos moderados.
+Ruta 10 suspendida hasta mañana.
+Ruta 10 suspendida hasta mañana.
+Ruta 10 suspendida hasta mañana.
+Ruta 10 suspendida hasta mañana.
+Ruta 10 suspendida hasta mañana.
+Ruta 12 abierta con ajustes.
+Ruta 12 abierta con ajustes.
+Ruta 12 abierta con ajustes.
+Ruta 12 abierta con ajustes.
+Ruta 12 abierta con ajustes.
+Ruta 12 abierta con ajustes.
+Ruta 12 abierta con ajustes.
+Ruta 12 abierta con ajustes.
+Ruta 1 operativa.
+Ruta 1 operativa.
+Ruta 1 operativa.
+Ruta 1 operativa.
+Ruta 1 operativa.
+Ruta 1 operativa.
+Ruta 1 operativa.
+Ruta 1 operativa.
+Ruta 1 operativa.
+Ruta 1 operativa.
+Ruta 1 operativa.
+Ruta 1 operativa.
+Ruta 30 en servicio normal.
+Ruta 31 en servicio normal.
+Ruta 32 en servicio normal.
+Ruta 33 en servicio normal.
+Ruta 34 en servicio normal.
+Ruta 35 en servicio normal.
+Ruta 36 en servicio normal.
+Ruta 37 en servicio normal.
+Ruta 38 en servicio normal.
+Ruta 39 en servicio normal.
+Ruta 40 en servicio normal.
+Ruta 41 en servicio normal.
+Ruta 42 en servicio normal.
+Ruta 43 en servicio normal.
+Ruta 44 en servicio normal.
+Ruta 45 en servicio normal.
+Ruta 46 en servicio normal.
+Ruta 47 en servicio normal.
+Ruta 48 en servicio normal.
+Ruta 49 en servicio normal.
+Ruta 50 en servicio normal.
+Ruta 51 en servicio normal.
+Ruta 52 en servicio normal.
+Ruta 53 en servicio normal.
+Ruta 54 en servicio normal.
+Ruta 55 en servicio normal.
+Ruta 56 en servicio normal.
+Ruta 57 en servicio normal.
+Ruta 58 en servicio normal.
+Ruta 59 en servicio normal.
+Ruta 60 en servicio normal.
+Ruta 61 en servicio normal.
+Ruta 62 en servicio normal.
+Ruta 63 en servicio normal.
+Ruta 64 en servicio normal.
+Ruta 65 en servicio normal.
+Ruta 66 en servicio normal.
+Ruta 67 en servicio normal.
+Ruta 68 en servicio normal.
+Ruta 69 en servicio normal.
+Ruta 70 en servicio normal.
+Ruta 71 en servicio normal.
+Ruta 72 en servicio normal.
+Ruta 73 en servicio normal.
+Ruta 74 en servicio normal.
+Ruta 75 en servicio normal.
+Ruta 76 en servicio normal.
+Ruta 77 en servicio normal.
+Ruta 78 en servicio normal.
+Ruta 79 en servicio normal.
+Ruta 80 en servicio normal.
+Ruta 81 en servicio normal.
+Ruta 82 en servicio normal.
+Ruta 83 en servicio normal.
+Ruta 84 en servicio normal.
+Ruta 85 en servicio normal.
+Ruta 86 en servicio normal.
+Ruta 87 en servicio normal.
+Ruta 88 en servicio normal.
+Ruta 89 en servicio normal.
+Ruta 90 en servicio normal.
+Ruta 91 en servicio normal.
+Ruta 92 en servicio normal.
+Ruta 93 en servicio normal.
+Ruta 94 en servicio normal.
+Ruta 95 en servicio normal.
+Ruta 96 en servicio normal.
+Ruta 97 en servicio normal.
+Ruta 98 en servicio normal.
+Ruta 99 en servicio normal.
+Ruta 100 en servicio normal.
+Ruta 101 en servicio normal.
+Ruta 102 en servicio normal.
+Ruta 103 en servicio normal.
+Ruta 104 en servicio normal.
+Ruta 105 en servicio normal.
+Ruta 106 en servicio normal.
+Ruta 107 en servicio normal.
+Ruta 108 en servicio normal.
+Ruta 109 en servicio normal.
+Ruta 110 en servicio normal.
+Ruta 111 en servicio normal.
+Ruta 112 en servicio normal.
+Ruta 113 en servicio normal.
+Ruta 114 en servicio normal.
+Ruta 115 en servicio normal.
+Ruta 116 en servicio normal.
+Ruta 117 en servicio normal.
+Ruta 118 en servicio normal.
+Ruta 119 en servicio normal.
+Ruta 120 en servicio normal.
+Ruta 121 en servicio normal.
+Ruta 122 en servicio normal.
+Ruta 123 en servicio normal.
+Ruta 124 en servicio normal.
+Ruta 125 en servicio normal.
+Ruta 126 en servicio normal.
+Ruta 127 en servicio normal.
+Ruta 128 en servicio normal.
+Ruta 129 en servicio normal.
+Ruta 130 en servicio normal.
+Ruta 131 en servicio normal.
+Ruta 132 en servicio normal.
+Ruta 133 en servicio normal.
+Ruta 134 en servicio normal.
+Ruta 135 en servicio normal.
+Ruta 136 en servicio normal.
+Ruta 137 en servicio normal.
+Ruta 138 en servicio normal.
+Ruta 139 en servicio normal.
+Ruta 140 en servicio normal.
+Ruta 141 en servicio normal.
+Ruta 142 en servicio normal.
+Ruta 143 en servicio normal.
+Ruta 144 en servicio normal.
