@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Leer datos limpios
-df = pd.read_csv('reportes_buses_limpio.csv', encoding='utf-8')
+df = pd.read_csv('reportes_buses_limpios.csv', encoding='utf-8')
 
 # Conteo de conceptos
 conteo_conceptos = df['concepto'].value_counts().sort_index()

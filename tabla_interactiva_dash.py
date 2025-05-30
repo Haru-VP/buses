@@ -3,7 +3,7 @@ from dash import dash_table, dcc, html, Input, Output
 import pandas as pd
 
 # Leer el archivo limpio generado previamente
-df = pd.read_csv('reportes_buses_limpio.csv', encoding='utf-8')
+df = pd.read_csv('reportes_buses_limpios.csv', encoding='utf-8')
 
 # Agrupar rutas por concepto (guardamos rutas aparte para la interacción)
 conceptos = df.groupby('concepto')['ruta'].apply(list).reset_index()
